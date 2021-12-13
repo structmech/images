@@ -10,8 +10,8 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="319.58926mm"
-   height="263.61401mm"
-   viewBox="0 0 319.58926 263.61402"
+   height="264.67236mm"
+   viewBox="0 0 319.58926 264.67237"
    version="1.1"
    id="svg8"
    inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
@@ -1505,9 +1505,9 @@
      inkscape:document-rotation="0"
      inkscape:current-layer="layer1"
      inkscape:document-units="mm"
-     inkscape:cy="503.40802"
-     inkscape:cx="706.91398"
-     inkscape:zoom="0.7"
+     inkscape:cy="476.55699"
+     inkscape:cx="276.9923"
+     inkscape:zoom="0.49497475"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      borderopacity="1.0"
@@ -1856,7 +1856,7 @@
       </g>
     </g>
     <g
-       transform="matrix(0.624705,0,0,0.624705,220.98058,150.48249)"
+       transform="matrix(0.624705,0,0,0.624705,220.98058,152.07)"
        ns16:version="1.5.0"
        ns16:texconverter="pdflatex"
        ns16:pdfconverter="inkscape"
@@ -2225,7 +2225,7 @@
       </g>
     </g>
     <g
-       transform="matrix(0.624705,0,0,0.624705,63.524832,283.82098)"
+       transform="matrix(0.624705,0,0,0.624705,63.524832,284.87932)"
        ns16:version="1.5.0"
        ns16:texconverter="pdflatex"
        ns16:pdfconverter="inkscape"
@@ -7499,7 +7499,7 @@
        ns16:pdfconverter="inkscape"
        ns16:texconverter="pdflatex"
        ns16:version="1.5.0"
-       transform="matrix(0.62470501,0,0,0.62470501,220.4688,283.23393)">
+       transform="matrix(0.62470501,0,0,0.62470501,220.4688,284.29227)">
       <defs
          id="id-e1bf9948-b64f-4173-8e48-062970ec7770-9">
         <g
