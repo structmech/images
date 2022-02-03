@@ -32,36 +32,6 @@
          transform="matrix(-0.8,0,0,-0.8,-10,0)" />
     </marker>
     <marker
-       inkscape:collect="always"
-       inkscape:isstock="true"
-       style="overflow:visible"
-       id="marker47414"
-       refX="0"
-       refY="0"
-       orient="auto"
-       inkscape:stockid="Arrow1Lend">
-      <path
-         transform="matrix(-0.8,0,0,-0.8,-10,0)"
-         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
-         d="M 0,0 5,-5 -12.5,0 5,5 Z"
-         id="path47412" />
-    </marker>
-    <marker
-       inkscape:collect="always"
-       inkscape:stockid="Arrow1Lend"
-       orient="auto"
-       refY="0"
-       refX="0"
-       id="marker46058"
-       style="overflow:visible"
-       inkscape:isstock="true">
-      <path
-         id="path46056"
-         d="M 0,0 5,-5 -12.5,0 5,5 Z"
-         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
-         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
-    </marker>
-    <marker
        inkscape:stockid="Arrow1Lend"
        orient="auto"
        refY="0"
@@ -2452,9 +2422,9 @@
      inkscape:document-rotation="0"
      inkscape:current-layer="layer3"
      inkscape:document-units="mm"
-     inkscape:cy="588.31617"
-     inkscape:cx="866.2375"
-     inkscape:zoom="0.5"
+     inkscape:cy="406.98534"
+     inkscape:cx="680.82422"
+     inkscape:zoom="0.70710678"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      borderopacity="1.0"
@@ -6351,7 +6321,7 @@
        id="path32386" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker32476)"
-       d="m -237.70837,177.49205 h 8.73407"
+       d="m -230.82916,177.49205 h 8.73407"
        id="path32388"
        sodipodi:nodetypes="cc" />
     <path
@@ -6370,7 +6340,7 @@
        ns1:pdfconverter="inkscape"
        ns1:texconverter="pdflatex"
        ns1:version="1.5.0"
-       transform="matrix(1.05002,0,0,1.05002,-226.02836,175.405)">
+       transform="matrix(1.05002,0,0,1.05002,-220.20749,175.405)">
       <defs
          id="defs32402">
         <g
@@ -6505,8 +6475,8 @@
     <path
        sodipodi:nodetypes="cc"
        id="path46052"
-       d="m -237.70837,190.7213 h 8.73407"
-       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker46058)" />
+       d="m -237.70837,190.7213 h 4.03772"
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
     <path
        id="path46054"
        d="m -252.34807,186.93276 -1.96009,3.47454 h -7.11071"
@@ -6536,8 +6506,8 @@
        d="m -240.09139,201.15415 2.38302,3.85469"
        id="path47406" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker47414)"
-       d="m -237.70837,205.00884 h 8.73407"
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -237.70837,205.00884 h 3.97157"
        id="path47408"
        sodipodi:nodetypes="cc" />
     <path
@@ -6571,11 +6541,16 @@
     <path
        sodipodi:nodetypes="cc"
        id="path48772"
-       d="m -237.70837,220.35472 h 8.73407"
-       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker48778)" />
+       d="m -237.70837,220.35472 h 3.70699"
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
     <path
        id="path48774"
        d="m -252.34807,216.56618 -1.96009,3.47454 h -7.11071"
        style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -237.70837,177.49205 h 4.03772"
+       id="path52612"
+       sodipodi:nodetypes="cc" />
   </g>
 </svg>
